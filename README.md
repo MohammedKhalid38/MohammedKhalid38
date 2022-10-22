@@ -1,4 +1,4 @@
-### Howdy, this is Mohammed Khalid on Github 👋
+### Howdy, This is Mohammed Khalid on Github 👋
 
 Software Engineer, Full-stack web developer. 
 <hr />
