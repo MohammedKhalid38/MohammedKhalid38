@@ -1,9 +1,11 @@
 ### Howdy, This is Mohammed Khalid on Github 👋
+
+Software Engineer, Full-stack web developer. 
 <hr />
 
 - 💬 Ask me about C#, .NET,ASP.NET, JavaScript, SQL, SQL Server, Design Petterns, SOLID Principles.
 - 🌱 I’m currently learning TypeScript, React, Docker, Kubernetes.
-- 👯 I’m looking to collaborate on .NET Projects.
+- 👯 I’m looking to collaborate on .NET Projects, SQL queries, JavaScript libraries, HTML Templates.
 
 <p align="center">
 <a href="https://github.com/MohammedKhalid38/github-readme-stats">
